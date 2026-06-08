@@ -23,9 +23,9 @@ repository               : "jacobgra/jacobgra.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "me.jpg"
   name             : "Jacob Granqvist"
-  bio              : "PhD-student in Economics at the IIES"
+  bio              : "PhD-student in Economics"
   location         : "Stockholm, Sweden"
   employer         : "IIES, Stockholm University"
   uri              : # URL
