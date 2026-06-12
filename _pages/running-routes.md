@@ -29,7 +29,7 @@ Stockholm University is located in a perfect area for running. The highlighted p
       maxZoom: 20,
       maxBounds: norraDjurgardenBounds,
       maxBoundsViscosity: 1.0
-    }).setView(norraDjurgardenCenter, 12);
+    }).setView(norraDjurgardenCenter, 16);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 16,
