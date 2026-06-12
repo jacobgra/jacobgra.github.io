@@ -21,7 +21,7 @@ Stockholm University is located in a perfect area for running. The highlighted p
     var norraDjurgardenCenter = [59.36, 18.07];
     var norraDjurgardenBounds = L.latLngBounds([
       [59.34, 18.04],
-      [59.37, 18.10]
+      [59.38, 18.10]
     ]);
     var map = L.map('running-routes-map', {
       zoomControl: true,
@@ -29,7 +29,7 @@ Stockholm University is located in a perfect area for running. The highlighted p
       maxZoom: 20,
       maxBounds: norraDjurgardenBounds,
       maxBoundsViscosity: 1.0
-    }).setView(norraDjurgardenCenter, 16);
+    }).setView(norraDjurgardenCenter, 13);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 16,
