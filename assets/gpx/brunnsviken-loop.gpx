@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="jacobgra.github.io" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Brunnsviken loop</name>
+    <trkseg>
+      <trkpt lat="59.3706" lon="18.0868"></trkpt>
+      <trkpt lat="59.3719" lon="18.0954"></trkpt>
+      <trkpt lat="59.3731" lon="18.1049"></trkpt>
+      <trkpt lat="59.3742" lon="18.1145"></trkpt>
+      <trkpt lat="59.3752" lon="18.1246"></trkpt>
+      <trkpt lat="59.3718" lon="18.1324"></trkpt>
+      <trkpt lat="59.3665" lon="18.1364"></trkpt>
+      <trkpt lat="59.3607" lon="18.1353"></trkpt>
+      <trkpt lat="59.3561" lon="18.1292"></trkpt>
+      <trkpt lat="59.3543" lon="18.1204"></trkpt>
+      <trkpt lat="59.3550" lon="18.1103"></trkpt>
+      <trkpt lat="59.3576" lon="18.1009"></trkpt>
+      <trkpt lat="59.3624" lon="18.0932"></trkpt>
+      <trkpt lat="59.3670" lon="18.0888"></trkpt>
+      <trkpt lat="59.3706" lon="18.0868"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="jacobgra.github.io" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Djurgården waterfront run</name>
+    <trkseg>
+      <trkpt lat="59.3476" lon="18.1236"></trkpt>
+      <trkpt lat="59.3521" lon="18.1342"></trkpt>
+      <trkpt lat="59.3567" lon="18.1434"></trkpt>
+      <trkpt lat="59.3612" lon="18.1501"></trkpt>
+      <trkpt lat="59.3655" lon="18.1509"></trkpt>
+      <trkpt lat="59.3694" lon="18.1462"></trkpt>
+      <trkpt lat="59.3704" lon="18.1367"></trkpt>
+      <trkpt lat="59.3679" lon="18.1269"></trkpt>
+      <trkpt lat="59.3632" lon="18.1178"></trkpt>
+      <trkpt lat="59.3578" lon="18.1108"></trkpt>
+      <trkpt lat="59.3528" lon="18.1089"></trkpt>
+      <trkpt lat="59.3491" lon="18.1148"></trkpt>
+      <trkpt lat="59.3476" lon="18.1236"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
