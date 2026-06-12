@@ -34,7 +34,7 @@ These routes are centered around Norra Djurgården. Replace the GPX files in `/a
     }).setView(norraDjurgardenCenter, 12);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 19,
+      maxZoom: 16,
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
