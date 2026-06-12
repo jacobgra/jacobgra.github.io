@@ -19,12 +19,11 @@ These routes are centered around Norra Djurgården. Replace the GPX files in `/a
       return;
     }
 
-    var norraDjurgardenCenter = [59.3662, 18.1328];
+    var norraDjurgardenCenter = [59.21, 18.04];
     var norraDjurgardenBounds = L.latLngBounds([
-      [59.329, 18.04],
-      [59.408, 18.235]
+      [59.19, 18.02],
+      [59.23, 18.06]
     ]);
-
     var map = L.map('running-routes-map', {
       zoomControl: true,
       minZoom: 11,
