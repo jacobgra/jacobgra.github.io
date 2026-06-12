@@ -37,8 +37,7 @@ Stockholm University is located in a perfect area for running. The highlighted p
     }).addTo(map);
 
     var routes = [
-      { file: '/assets/gpx/brunnsviken-loop.gpx', name: 'Brunnsviken loop', color: '#0072B2' },
-      { file: '/assets/gpx/djurgarden-waterfront.gpx', name: 'Djurgården waterfront run', color: '#009E73' }
+      { file: '/assets/gpx/djurgarden-loop.gpx', name: 'Djurgården loop', color: '#0072B2' }
     ];
 
     routes.forEach(function (route) {
