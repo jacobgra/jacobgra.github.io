@@ -4,8 +4,7 @@ title: "Running routes"
 permalink: /running-routes/
 author_profile: true
 ---
-
-These routes are centered around Norra Djurgården. Replace the GPX files in `/assets/gpx/` with your own paths whenever you want to update the map.
+Stockholm University is located in a perfect area for running. The highlighted path is a good 12 km track around Norra Djurgården. I would be happy to take you out for a run-and-talk!
 
 <div id="running-routes-map" style="height: 420px; max-width: 760px; width: 100%; margin: 1rem 0;"></div>
 
