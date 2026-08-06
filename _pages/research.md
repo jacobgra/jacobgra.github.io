@@ -8,4 +8,4 @@ author_profile: true
 <header>
   <h1>Work in progress</h1>
 </header>
-[Dissent in central bank communication](/research/dissent-paper/)
+[Dissent in central bank communication](dissent-paper/) 
