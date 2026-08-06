@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Dissent in central bank communication"
-permalink: /research/dissent-in-central-bank-communication/
+permalink: /research/dissent-paper/
 author_profile: true
 ---
 
