@@ -5,23 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 
-<ul class="nav nav-tabs" id="research-tabs" role="tablist">
-  <li class="nav-item" role="presentation">
-    <button class="nav-link active" id="working-papers-tab" data-bs-toggle="tab" data-bs-target="#working-papers" type="button" role="tab" aria-controls="working-papers" aria-selected="true">Working papers</button>
-  </li>
-  <li class="nav-item" role="presentation">
-    <button class="nav-link" id="work-in-progress-tab" data-bs-toggle="tab" data-bs-target="#work-in-progress" type="button" role="tab" aria-controls="work-in-progress" aria-selected="false">Work in progress</button>
-  </li>
-</ul>
+<header>
+    <h1>Working papers</h1>
+  </header>
 <div class="tab-content" id="research-tabs-content" style="margin-top: 1rem;">
   <div class="tab-pane fade show active" id="working-papers" role="tabpanel" aria-labelledby="working-papers-tab">
     <ul>
       <li>Add your working papers here.</li>
     </ul>
   </div>
+  <header>
+    <h1>Work in progress</h1>
+  </header>
   <div class="tab-pane fade" id="work-in-progress" role="tabpanel" aria-labelledby="work-in-progress-tab">
     <ul>
-      <li>Add your work in progress here.</li>
+      <li>Dissent in central bank communication</li>
     </ul>
   </div>
 </div>
