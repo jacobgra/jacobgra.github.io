@@ -5,7 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-<header>
-  <h1>Work in progress</h1>
-</header>
-[Dissent in central bank communication](dissent-paper/) 
+## Working Papers
+
+- [Dissent in central bank communication](dissent-paper/)
+- _Add new working paper here_
+
+## Publications
+
+- _Add published paper here_
